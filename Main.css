@@ -1,0 +1,17 @@
+@import url('https://raw.githack.com/VaporousCreeper/BetterDiscord-ThemesAndPlugins/master/Themes/GGO_Kirito/core.css');
+
+:root{
+     --background: url('https://raw.githubusercontent.com/secret-script/images/refs/heads/main/fsociety_resized.png');
+     --activetext-colour: rgb(1, 5, 39);
+ 
+     --primary1-colour: rgb(0, 3, 182);
+     --primary2-colour: rgba(47, 0, 255, 0.5);
+     --primary3-colour: rgba(0, 10, 100, 0.6);
+     --primary4-colour: rgba(2, 0, 100, 0.4);
+ 
+     --secondary1-colour: rgba(50,50,50,0.3);
+     --secondary2-colour: rgba(100,100,100,0.5);
+     --secondary3-colour: rgba(0,0,0,0.6);
+     --secondary4-colour: rgba(0,0,0,0.3);
+
+}
